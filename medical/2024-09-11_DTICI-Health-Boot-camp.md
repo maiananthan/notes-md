@@ -1,13 +1,20 @@
-# DTICI Health Bootcamp
-01. Registration
+## Process
+1. Registration
 2. Height
-3. blood pressure
-4. bone density
-5. weight & body c analysis
-6. eye check up
-7. audio test
-8. dental test
-9. doctor consultation
+3. Blood Pressure
+4. Bone Density
+5. Weight & Body Composition Analysis (BCA)
+6. Eye Check-Up
+7. Audi
+8. Registration
+9. Height
+10. blood pressure
+11. bone density
+12. weight & body c analysis
+13. eye check up
+14. audio test
+15. dental test
+16. doctor consultation
 
 
 lenskart
