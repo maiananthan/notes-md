@@ -2,19 +2,20 @@
 1. Registration
 2. Height
 3. Blood Pressure
-4. Bone Density
+4. Bone Mass Density (Bone Mass Density)
 5. Weight & Body Composition Analysis (BCA)
 6. Eye Check-Up
-7. Audi
-8. Registration
-9. Height
-10. blood pressure
-11. bone density
-12. weight & body c analysis
-13. eye check up
-14. audio test
-15. dental test
-16. doctor consultation
+7. Audiometry
+8. Dental Checkup
+9. Registration
+10. Height
+11. blood pressure
+12. bone density
+13. weight & body c analysis
+14. eye check up
+15. audio test
+16. dental test
+17. doctor consultation
 
 
 lenskart
