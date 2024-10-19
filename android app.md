@@ -1,2 +1,0 @@
-- Download Android Studio cmdline tools only https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip
-- 
