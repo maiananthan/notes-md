@@ -9,4 +9,3 @@
 9. rasam 
 10. curd 
 11. payasam 
-ki
