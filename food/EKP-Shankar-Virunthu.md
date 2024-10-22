@@ -9,10 +9,3 @@
 9. rasam 
 10. curd 
 11. payasam 
-
-1.70 - 20.08.2024
-
-
-1 - 
-
-HPCL Coral Credit Card - ICICI
