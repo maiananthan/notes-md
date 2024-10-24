@@ -23,3 +23,5 @@ Spend 100 INR = 2 points
 4 reward points = 1 INR 
 
 Cashback 1 INR = Spend 200 INR
+
+
